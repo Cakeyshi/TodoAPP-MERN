@@ -44,4 +44,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Inspired by [mention any inspiration or resources used].
+- Special thanks to [FreeCodeCamp](https://www.freecodecamp.org/) for their comprehensive tutorials and resources that helped me learn and build this project.
+
