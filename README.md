@@ -2,7 +2,7 @@
 
 A full-stack web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
 
-![Example Image](/Todo Template.jpg)
+![Example Image](https://github.com/Cakeyshi/TodoAPP-MERN/blob/master/Todo%20Template.jpg)
 
 
 ## Overview
