@@ -2,6 +2,9 @@
 
 A full-stack web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
 
+![Example Image](master/Todo-Template.jpeg)
+
+
 ## Overview
 
 This Todo App allows users to manage their tasks efficiently with features including:
