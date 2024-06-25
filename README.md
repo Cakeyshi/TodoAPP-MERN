@@ -20,7 +20,7 @@ This Todo App allows users to manage their tasks efficiently with features inclu
 
 To run this application locally, follow these steps:
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone https://github.com/Cakeyshi/TodoAPP-MERN.git`
 2. Navigate to the project directory: `cd mern-todo-app`
 3. Install dependencies for both frontend and backend:
    - Frontend: `cd public\front-end-todolist && npm install`
