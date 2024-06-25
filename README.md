@@ -21,14 +21,13 @@ This Todo App allows users to manage their tasks efficiently with features inclu
 To run this application locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Cakeyshi/TodoAPP-MERN.git`
-2. Navigate to the project directory: `cd mern-todo-app`
-3. Install dependencies for both frontend and backend:
+2. Install dependencies for both frontend and backend:
    - Frontend: `cd public\front-end-todolist && npm install`
    - Backend: `npm install`
-4. Set up your MongoDB database and configure the connection (update `.env` file).
-5. Set up your PORT to 8080 (update `.env` file).
-6. Start the backend server: `npm run dev`
-7. Start the frontend development server: `npm run dev`
+3. Set up your MongoDB database and configure the connection (update `.env` file).
+4. Set up your PORT to 8080 (update `.env` file).
+5. Start the backend server: `npm run dev`
+6. Start the frontend development server: `npm run dev`
 
 ## Contributing
 
